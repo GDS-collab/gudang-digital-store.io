@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://username-anda.github.io/gudang-digital-store/sitemap.xml
+
+# Crawl-delay untuk mengurangi load server
+Crawl-delay: 1
+
+# Block unnecessary bots (optional)
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
