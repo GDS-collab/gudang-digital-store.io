@@ -9,7 +9,7 @@ const products = [
     name: "Instagram Feed Template",
     description: "50+ template feed Instagram aesthetic untuk konten kreator",
     price: 49000,
-    image: "https://via.placeholder.com/640x360/667eea/ffffff?text=Instagram+Feed",
+    image: "https://img.freepik.com/free-psd/editable-business-presentation-template-psd-modern-design-set_53876-138527.jpg?semt=ais_rp_progressive&w=740&q=80",
     category: "Social Media",
 
   },
@@ -18,7 +18,7 @@ const products = [
     name: "Canva Presentation Bundle",
     description: "Template presentasi profesional untuk pitch deck & laporan",
     price: 75000,
-    image: "https://via.placeholder.com/640x360/764ba2/ffffff?text=Presentation",
+    image: "https://img.freepik.com/free-vector/travel-landing-page-template-with-photo_52683-29401.jpg?semt=ais_hybrid&w=740&q=80",
     category: "Business",
 
   },
@@ -393,3 +393,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 
 });
+
