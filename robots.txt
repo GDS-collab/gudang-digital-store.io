@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://username-anda.github.io/gudang-digital-store/sitemap.xml
+Sitemap: https://gds-collab.github.io/gudang-digital-store.io/sitemap.xml
 
 # Crawl-delay untuk mengurangi load server
 Crawl-delay: 1
@@ -11,4 +11,5 @@ User-agent: AhrefsBot
 Disallow: /
 
 User-agent: SemrushBot
+
 Disallow: /
