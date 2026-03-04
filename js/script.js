@@ -1,6 +1,6 @@
 // Konfigurasi WhatsApp Admin
-const ADMIN_WHATSAPP = "6281234567890";
-const BASE_URL = "https://username-anda.github.io/gudang-digital-store/";
+const ADMIN_WHATSAPP = "6285143235212";
+const BASE_URL = "https://gds-collab.github.io/gudang-digital-store.io/";
 
 // Data Produk
 const products = [
@@ -391,4 +391,5 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
       target.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
   });
+
 });
