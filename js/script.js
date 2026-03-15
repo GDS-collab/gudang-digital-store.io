@@ -6,13 +6,14 @@ const BASE_URL = "https://gds-collab.github.io/gudang-digital-store.io/";
 const products = [
   {
     id: 1,
-    name: "Instagram Feed Template",
-    description: "50+ template feed Instagram aesthetic untuk konten kreator",
-    price: 49000,
-    image: "https://img.freepik.com/free-psd/editable-business-presentation-template-psd-modern-design-set_53876-138527.jpg?semt=ais_rp_progressive&w=740&q=80",
-    category: "Social Media",
+    name: "Bundle Template Excel Vertex 42",
+    description: "7 Template Excel money manager, personal budget, family budget planner, dll",
+    price: 10000,
+    image: BASE_URL + "images/img1.png",
+    category: "Personal",
 
   },
+  /*
   {
     id: 2,
     name: "Canva Presentation Bundle",
@@ -40,6 +41,7 @@ const products = [
     category: "Branding",
 
   }
+  */
 ];
 
 // State Cart
